@@ -1,4 +1,4 @@
-# Python Intern Task
+# Task
 
 This project contains a Python script that fetches user data from a public API and prints selected details. It demonstrates using the GET method, JSON handling, loops, and basic error handling.
 
